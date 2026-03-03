@@ -1,0 +1,6 @@
+*   b33ab0c merge: combine versi 1 dan versi 2
+|\  
+| * 2705f12 feat: add comment versi 1
+* | 185b3f5 feat: add comment versi 2
+|/  
+* bd5fdbe init: inisiasi github
